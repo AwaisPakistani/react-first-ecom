@@ -1,0 +1,82 @@
+
+.navigation{
+   background-color: rgb(7, 14, 1);
+   border-top-left-radius: 50px;
+   height: auto;
+   width: auto;
+   padding: 10px;
+   position: relative;
+   border-top-left-radius: 50px;
+//    border-end-end-radius: 10%;
+//    border-start-start-radius: 10%;
+   
+   
+   color: white;
+   margin: 10px;
+   display: inline;
+   &:first-child{
+       
+       border: 0px solid black;
+       text-transform: uppercase;
+       font-weight: bold;
+       
+
+   }
+   
+}
+.navigation:hover {
+   background-color: rgb(7, 14, 1);
+   border-top-left-radius: 50px;
+   height: auto;
+   width: auto;
+   
+   
+   color: white;
+   margin: 10px;
+   display: inline;
+   &:first-child{
+       
+       border: 0px solid black;
+       text-transform: uppercase;
+       font-weight: bold;
+       
+
+   }
+    animation-name: example;
+    animation-duration: 4s;
+  }
+  
+  @keyframes example {
+    0%   {background-color: rgb(0, 64, 255);
+        text-shadow: 2px 2px 5px red;
+    }
+    25%  {background-color: rgb(109, 51, 155);
+        text-shadow: 2px 2px 5px red;
+    }
+    50%  {background-color: rgb(93, 93, 162);
+    }
+    100% {background-color: rgb(1, 15, 1);
+    }
+  }
+
+.navigation ul li{
+    
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navigation ul li:hover{
+    
+    overflow:hidden;
+    text-overflow: clip;
+}
+
+:any-link{color: white; text-decoration: none;}
+@keyframes mymove {
+    from {left: 500px;}
+    to {right: 500px;}
+  }

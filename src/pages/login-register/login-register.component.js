@@ -1,14 +1,13 @@
 import React from "react";
-import './login-register.styles.scss';
-import Header from "../../components/header/header.component";
+import Master from "../../Master";
 import Login from "../../components/login/login.component";
+import Registraion from "../../components/registration/registration.component";
+import './login-register.styles.scss';
 const LoginRegister=()=>(
-  <div className="login-register">
-    <Header/>
-    <div className="content">
+  <Master className="login-register">
         <Login />
-    </div> 
-  </div>
+        <Registraion />
+  </Master>
 )
 
 export default LoginRegister;

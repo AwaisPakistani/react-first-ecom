@@ -5,6 +5,9 @@ body{
 a{
   text-decoration: none;
 }
+*{
+  box-sizing: border-box;
+}
 /* .App {
   text-align: center;
 }

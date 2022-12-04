@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-first-ecom/static/css/main.4c5fe48d.css",
+    "main.js": "/react-first-ecom/static/js/main.cc41276d.js",
+    "static/css/345.a53cff97.chunk.css": "/react-first-ecom/static/css/345.a53cff97.chunk.css",
+    "static/js/345.cb2a9370.chunk.js": "/react-first-ecom/static/js/345.cb2a9370.chunk.js",
+    "static/css/825.1471160e.chunk.css": "/react-first-ecom/static/css/825.1471160e.chunk.css",
+    "static/js/825.f3157f93.chunk.js": "/react-first-ecom/static/js/825.f3157f93.chunk.js",
+    "static/js/852.cc14834b.chunk.js": "/react-first-ecom/static/js/852.cc14834b.chunk.js",
+    "static/js/177.9e9871b8.chunk.js": "/react-first-ecom/static/js/177.9e9871b8.chunk.js",
+    "static/css/796.171ba1e1.chunk.css": "/react-first-ecom/static/css/796.171ba1e1.chunk.css",
+    "static/js/796.9cd0b242.chunk.js": "/react-first-ecom/static/js/796.9cd0b242.chunk.js",
+    "static/js/787.e1bb53a7.chunk.js": "/react-first-ecom/static/js/787.e1bb53a7.chunk.js",
+    "static/media/logo.svg": "/react-first-ecom/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-first-ecom/index.html",
+    "main.4c5fe48d.css.map": "/react-first-ecom/static/css/main.4c5fe48d.css.map",
+    "main.cc41276d.js.map": "/react-first-ecom/static/js/main.cc41276d.js.map",
+    "345.a53cff97.chunk.css.map": "/react-first-ecom/static/css/345.a53cff97.chunk.css.map",
+    "345.cb2a9370.chunk.js.map": "/react-first-ecom/static/js/345.cb2a9370.chunk.js.map",
+    "825.1471160e.chunk.css.map": "/react-first-ecom/static/css/825.1471160e.chunk.css.map",
+    "825.f3157f93.chunk.js.map": "/react-first-ecom/static/js/825.f3157f93.chunk.js.map",
+    "852.cc14834b.chunk.js.map": "/react-first-ecom/static/js/852.cc14834b.chunk.js.map",
+    "177.9e9871b8.chunk.js.map": "/react-first-ecom/static/js/177.9e9871b8.chunk.js.map",
+    "796.171ba1e1.chunk.css.map": "/react-first-ecom/static/css/796.171ba1e1.chunk.css.map",
+    "796.9cd0b242.chunk.js.map": "/react-first-ecom/static/js/796.9cd0b242.chunk.js.map",
+    "787.e1bb53a7.chunk.js.map": "/react-first-ecom/static/js/787.e1bb53a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5fe48d.css",
+    "static/js/main.cc41276d.js"
+  ]
+}
